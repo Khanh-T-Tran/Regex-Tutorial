@@ -1,10 +1,14 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+#### As a web developer, this tutorial was made in order to understand how Regular Expressions or Regex work to define a search pattern.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+#### A Regex or regular expression is a sequence of characters that define a search pattern, which are used by string-searching algorithms for "find" or "find and replace" operations on strings, also looks for input validation. This technique usualy developed in theoretical computer science.
+#### Example of an Regex:
+/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
+
+#### Follow the content below to understand each part of the example
 
 ## Table of Contents
 
