@@ -27,6 +27,14 @@
 ## Regex Components
 
 ### Anchors
+#### While the two forward slash characters "/" are used to denote the boundaries of a regular expression, the "^" and "$" are the two anchors that signal the begin and the end of that regex.
+
+#### There are also other two anchors "\b"  and "\B":
+
+    \b Matches a word boundary position between a word character and non-word character or position (start / end of string). See the word character class (w) for more info.
+
+    \B Matches any position that is not a word boundary. This matches a position, not a character.
+    See Boundaries for more detailed Information
 
 ### Quantifiers
 
