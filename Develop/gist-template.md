@@ -38,6 +38,22 @@
 
 ### Quantifiers
 
+#### Quantifiers indicate that the preceding token must be matched a certain number of times. A quantifire can be greedy or lazy that is explained below.
+
+a*a+a? -0 or more, 1 or more, 0 or 1
+
+"+" Matches 1 or more of the preceding token.
+"*" Matches 0 or more of the preceding token.
+"?" Matches 0 or 1 of the preceding token, effectively making it optional.
+"?" Makes the preceding quantifier lazy, causing it to match as few characters as possible. By default, quantifiers are greedy, and will match as many characters as possible.
+a{5}a{2,} -Looks for exactly five, two or more
+
+{2,6} -forces the input of characters between two & six characters long.
+
+a+?a{2,}? -match as few as possible
+
+ab|cd -match ab or cd
+
 ### OR Operator
 
 ### Character Classes
