@@ -160,5 +160,5 @@ h(?=t)       matches a h only if is followed by t, but t will not be part of the
 Khanh Tran
 
 Khanh Tran is a Medical Technician. He is attending and completing Fullstack Developer at UC Berkeley.
-
-GitHub: [KhanhTran](https://github.com/Khanh-T-Tran)
+* GitHub: [KhanhTran](https://github.com/Khanh-T-Tran)
+* Link to my gist: https://gist.github.com/Khanh-T-Tran/a1a8257e3f05cbee8b86a269779a2217
