@@ -159,6 +159,6 @@ h(?=t)       matches a h only if is followed by t, but t will not be part of the
 
 Khanh Tran
 
-Khanh Tran is a Medical Technician. He is attending and finishing Fullstack Developer at UC Berkeley.
+Khanh Tran is a Medical Technician. He is attending and completing Fullstack Developer at UC Berkeley.
 
 GitHub: [KhanhTran](https://github.com/Khanh-T-Tran)
