@@ -147,4 +147,8 @@ h(?=t)       matches a h only if is followed by t, but t will not be part of the
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Khanh Tran
+
+Khanh Tran is a Medical Technician. He is attending and finishing Fullstack Developer at UC Berkeley.
+
+GitHub: [KhanhTran](https://github.com/Khanh-T-Tran)
